@@ -1,8 +1,8 @@
 // ****************************************************************
 // *                                                              *
-// *     PPM to XBUS (JR and Multiplex SRXL V2) protocol          *
+// * PPM to SUMD (Graupner) or Multiplex SRXL(V1 or V2) protocol  *
 // *                                                              *
-// * V0.1                                                         *
+// * V1.0                                                         *
 // ****************************************************************
 
 // Arduino micro Pro (ATMega328 5V 16 Mhz board)
